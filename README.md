@@ -1,4 +1,7 @@
 # PLL-Design
+### Charge Pump
+
+
 ### Frequency Divider
 A frequency divider is an electronic circuit that takes an input signal of a certain frequency and generates an output signal with a lower frequency. This is accomplished by dividing the input frequency by a fixed integer value, known as the division ratio
 
