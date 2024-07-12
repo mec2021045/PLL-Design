@@ -8,3 +8,16 @@ Frequency dividers can be implemented using a variety of electronic components, 
 #### Application of Frequency Divider
 1. It is being used in digital electronics, telecommunications, and instrumentation.
 2. They are often used in frequency synthesizers, which are electronic circuits that generate a precise frequency output by combining the output of a frequency divider with a stable reference frequency
+### Schematics of Dflipflop
+![image](https://github.com/user-attachments/assets/60779a71-6e73-41c6-8914-c7b4127f435a)
+### Simulation result of flipflop
+![image](https://github.com/user-attachments/assets/93d8e01c-acb2-4b13-864a-a0d501f3d9e0)
+
+### TB of Frequency divider
+![image](https://github.com/user-attachments/assets/e6a287de-74c1-4341-995f-07093737591b)
+### Simulation Result of Frequency Divider(By 4)
+![image](https://github.com/user-attachments/assets/80ce51b1-bc25-4127-8b5f-366075eebeb9)
+
+
+
+
