@@ -1,4 +1,5 @@
 # PLL-Design
+
 ### Phase Detector
 A phase detector plays a crucial role within a phase-locked loop (PLL), which functions as a control system to produce an output signal synchronized with an input signal. The input signal typically varies in frequency and phase over time, and the PLL generates an output signal that adjusts to these variations to maintain synchronization.
 
@@ -11,6 +12,12 @@ A charge pump is an electronic circuit designed to convert a DC voltage level to
 The core mechanism of a charge pump involves a switching network that transfers charge between capacitors in a specific sequence, thereby altering the voltage level. In a step-up charge pump, for instance, the input voltage alternates between two capacitors, allowing the charge to build up across a series of capacitors, which produces a higher output voltage.
 
 Charge pumps are widely used in various electronic applications, including voltage converters, LCDs, and flash memory programming. They are favored for their efficiency, cost-effectiveness, and simplicity compared to other voltage conversion methods.
+# VCO
+### Schematics of csvco
+![image](https://github.com/user-attachments/assets/c0cbc2fe-f203-4126-a059-c22306f9ea8c)
+
+### Simulation Result of CSVCO
+![image](https://github.com/user-attachments/assets/58719908-a4d8-4a82-8bc7-9f364ea92ebb)
 
 ### Frequency Divider
 A frequency divider is an electronic circuit that takes an input signal of a certain frequency and generates an output signal with a lower frequency. This is accomplished by dividing the input frequency by a fixed integer value, known as the division ratio
