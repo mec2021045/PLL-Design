@@ -6,12 +6,16 @@ The phase detector compares the input signal phase with the PLL's output signal 
 
 Different types of phase detectors are utilized in PLLs, such as analog phase detectors, digital phase detectors, and mixers. The selection of the phase detector depends on specific application needs and the characteristics of the input and output signals.
 ### Charge Pump
+A charge pump is an electronic circuit designed to convert a DC voltage level to either a higher or lower DC voltage. This is achieved by periodically charging and discharging one or more capacitors to generate a voltage different from the input.
 
+The core mechanism of a charge pump involves a switching network that transfers charge between capacitors in a specific sequence, thereby altering the voltage level. In a step-up charge pump, for instance, the input voltage alternates between two capacitors, allowing the charge to build up across a series of capacitors, which produces a higher output voltage.
+
+Charge pumps are widely used in various electronic applications, including voltage converters, LCDs, and flash memory programming. They are favored for their efficiency, cost-effectiveness, and simplicity compared to other voltage conversion methods.
 
 ### Frequency Divider
 A frequency divider is an electronic circuit that takes an input signal of a certain frequency and generates an output signal with a lower frequency. This is accomplished by dividing the input frequency by a fixed integer value, known as the division ratio
 
-There are several types of frequency dividers, including binary dividers, divide-by-n dividers, and programmable dividers. Binary dividers divide the input frequency by powers of two, while divide-by-n dividers divide the input frequency by a fixed integer value. Programmable dividers, as the name suggests, allow the division ratio to be programmed or changed dynamically.
+There are several frequency dividers, including binary dividers, divide-by-n dividers, and programmable dividers. Binary dividers divide the input frequency by powers of two, while divide-by-n dividers divide the input frequency by a fixed integer value. As the name suggests, programmable dividers allow the division ratio to be programmed or changed dynamically.
 
 Frequency dividers can be implemented using a variety of electronic components, such as digital logic gates, flip-flops, and counters. Some modern frequency dividers are also implemented using digital signal processing (DSP) techniques, which can provide greater flexibility and accuracy.
 #### Application of Frequency Divider
