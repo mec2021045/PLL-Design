@@ -1,4 +1,10 @@
 # PLL-Design
+### Phase Detector
+A phase detector plays a crucial role within a phase-locked loop (PLL), which functions as a control system to produce an output signal synchronized with an input signal. The input signal typically varies in frequency and phase over time, and the PLL generates an output signal that adjusts to these variations to maintain synchronization.
+
+The phase detector compares the input signal phase with the PLL's output signal phase. It generates an error signal proportional to the phase difference between these signals. This error signal guides the PLL's control circuitry in adjusting the output signal's frequency and phase to minimize the phase difference and uphold synchronization.
+
+Different types of phase detectors are utilized in PLLs, such as analog phase detectors, digital phase detectors, and mixers. The selection of the phase detector depends on specific application needs and the characteristics of the input and output signals.
 ### Charge Pump
 
 
