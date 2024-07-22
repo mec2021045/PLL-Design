@@ -34,6 +34,11 @@ Different types of phase detectors are utilized in PLLs, such as analog phase de
 ![image](https://github.com/user-attachments/assets/35a171ce-c448-4c25-849f-bc47c2e1a06a)
 
 ### Resul
+### INVERTER
+### Result
+![image](https://github.com/user-attachments/assets/99f83831-2d77-4671-a1d4-f1dd0eeda2bd)
+
+![image](https://github.com/user-attachments/assets/064310d6-86fb-4b59-b688-d3a768106b0f)
 
 ### Charge Pump
 A charge pump is an electronic circuit designed to convert a DC voltage level to either a higher or lower DC voltage. This is achieved by periodically charging and discharging one or more capacitors to generate a voltage different from the input.
