@@ -72,6 +72,7 @@ Frequency dividers can be implemented using various electronic components, such 
 
 ### PLL Result
 ![image](https://github.com/user-attachments/assets/749a720a-d0b9-49ad-8350-d2a279bac3ce)
+![image](https://github.com/user-attachments/assets/796e73bf-9397-4cc7-8eda-c64bd408d342)
 
 ![image](https://github.com/user-attachments/assets/569677c2-14c5-43cb-8f84-8c56a4f31132)
 
