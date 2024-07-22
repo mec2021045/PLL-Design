@@ -35,6 +35,8 @@ Different types of phase detectors are utilized in PLLs, such as analog phase de
 
 ### Resul
 ### INVERTER
+![image](https://github.com/user-attachments/assets/05b16a55-33f6-43e6-b0b8-edbb52fca993)
+
 ### Result
 ![image](https://github.com/user-attachments/assets/99f83831-2d77-4671-a1d4-f1dd0eeda2bd)
 
