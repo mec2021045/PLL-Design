@@ -1,4 +1,18 @@
 # PLL-Design
+PLL stands for Phase-Locked Loop, an electronic circuit designed to synchronize its output frequency with an input frequency by adjusting both phase and frequency parameters.
+
+PLLs find widespread application in digital circuits, telecommunications, and radio communication systems. They serve the crucial functions of extracting timing and frequency details from noisy input signals and generating stable, precise clock signals for digital systems.
+
+Key components of a PLL include a voltage-controlled oscillator (VCO), a phase detector, and a loop filter. The phase detector compares the phase of the input signal with the VCO's output, while the loop filter ensures the VCO's frequency adjusts appropriately to minimize phase differences. The VCO's output frequency then becomes the synchronized output signal.
+
+Modern electronics utilize PLLs extensively for tasks like frequency synthesis, clock generation, and phase modulation/demodulation.
+
+Technology  fdsoi28nm 
+Frequency Obtained for 10Mhz input:    6GHz
+
+Duty Cycle obtained:     49.6% at 6GHz
+
+![image](https://github.com/user-attachments/assets/3099930d-8e79-4cff-8ed5-06c6860bc91b)
 
 ### Phase Detector
 A phase detector plays a crucial role within a phase-locked loop (PLL), which functions as a control system to produce an output signal synchronized with an input signal. The input signal typically varies in frequency and phase over time, and the PLL generates an output signal that adjusts to these variations to maintain synchronization.
@@ -57,6 +71,11 @@ Frequency dividers can be implemented using various electronic components, such 
 ![image](https://github.com/user-attachments/assets/16936cdf-4b17-4223-ac52-fc9dc4758cd8)
 
 ### PLL Result
+![image](https://github.com/user-attachments/assets/749a720a-d0b9-49ad-8350-d2a279bac3ce)
+
+![image](https://github.com/user-attachments/assets/569677c2-14c5-43cb-8f84-8c56a4f31132)
+
+
 
 
 
