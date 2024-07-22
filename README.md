@@ -6,6 +6,21 @@ A phase detector plays a crucial role within a phase-locked loop (PLL), which fu
 The phase detector compares the input signal phase with the PLL's output signal phase. It generates an error signal proportional to the phase difference between these signals. This error signal guides the PLL's control circuitry in adjusting the output signal's frequency and phase to minimize the phase difference and uphold synchronization.
 
 Different types of phase detectors are utilized in PLLs, such as analog phase detectors, digital phase detectors, and mixers. The selection of the phase detector depends on specific application needs and the characteristics of the input and output signals.
+### testbench of PFD
+![image](https://github.com/user-attachments/assets/cdda3372-acc4-49fa-8b7d-a058638c5ed3)
+
+### Result of PFD
+
+### Dflip Flop schematics
+![image](https://github.com/user-attachments/assets/b3606511-ae1e-4a67-803b-fb4f5b779642)
+
+### Result
+
+### AND gate schematics
+![image](https://github.com/user-attachments/assets/35a171ce-c448-4c25-849f-bc47c2e1a06a)
+
+### Resul
+
 ### Charge Pump
 A charge pump is an electronic circuit designed to convert a DC voltage level to either a higher or lower DC voltage. This is achieved by periodically charging and discharging one or more capacitors to generate a voltage different from the input.
 
@@ -38,8 +53,8 @@ Frequency dividers can be implemented using various electronic components, such 
 ### Simulation Result of Frequency Divider(By 4)
 ![image](https://github.com/user-attachments/assets/80ce51b1-bc25-4127-8b5f-366075eebeb9)
 
-### PLL Textbench
-![image](https://github.com/user-attachments/assets/6d8772aa-63e8-4257-973e-6c07bd93542a)
+### PLL Testbench
+![image](https://github.com/user-attachments/assets/16936cdf-4b17-4223-ac52-fc9dc4758cd8)
 
 ### PLL Result
 
