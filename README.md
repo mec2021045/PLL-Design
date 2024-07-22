@@ -48,6 +48,9 @@ A charge pump is an electronic circuit designed to convert a DC voltage level to
 The core mechanism of a charge pump involves a switching network that transfers charge between capacitors in a specific sequence, thereby altering the voltage level. In a step-up charge pump, for instance, the input voltage alternates between two capacitors, allowing the charge to build up across a series of capacitors, which produces a higher output voltage.
 
 Charge pumps are widely used in various electronic applications, including voltage converters, LCDs, and flash memory programming. They are favored for their efficiency, cost-effectiveness, and simplicity compared to other voltage conversion methods.
+### schematics
+![image](https://github.com/user-attachments/assets/917864bb-7af4-4078-9544-1b4e88d534e3)
+
 # VCO
 ### Schematics of csvco
 ![image](https://github.com/user-attachments/assets/c0cbc2fe-f203-4126-a059-c22306f9ea8c)
