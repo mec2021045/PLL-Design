@@ -11,10 +11,10 @@ Different types of phase detectors are utilized in PLLs, such as analog phase de
 
 ### Result of PFD
 
-### Dflip Flop schematics
-![image](https://github.com/user-attachments/assets/b3606511-ae1e-4a67-803b-fb4f5b779642)
-
-### Result
+### Schematics of Dflipflop
+![image](https://github.com/user-attachments/assets/60779a71-6e73-41c6-8914-c7b4127f435a)
+### Simulation result of flipflop
+![image](https://github.com/user-attachments/assets/93d8e01c-acb2-4b13-864a-a0d501f3d9e0)
 
 ### AND gate schematics
 ![image](https://github.com/user-attachments/assets/35a171ce-c448-4c25-849f-bc47c2e1a06a)
